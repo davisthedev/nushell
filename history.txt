@@ -1,0 +1,135 @@
+config nu
+cd
+ls
+$nu.config-path
+vim | $nu.config-path
+vim $nu.config-path
+which vim
+nvim $nu.config-path
+config nu
+cd
+cd AppData\Roaming\nushell\
+ls
+vim tokyonight-moon.nu
+nvim tokyonight-moon.nu
+ls
+vim config.nu
+nvim config.nu
+nvim init.nu
+cd 
+cd AppData\Roaming\nushell\
+vim config.nu
+nvim config.nu
+ls
+cd 
+cd AppData\Roaming\nushell\
+ls
+vim config.nu
+nvim config.nu
+gd
+vim init.nu
+rm init.nu
+vim config.nu
+nvim config.nu
+cd
+cd AppData\Roaming\nushell\
+nvim config.nu
+$nu.config
+$nu.config.colors
+vim config.nu
+nvim config.nu
+nvim test.nu
+cd
+cd AppData\Roaming\nushell\
+ls
+vim config.nu
+nvim config.nu
+vim env.nu
+nvim env.nu
+ls
+cd portal-api\
+ls
+cd
+cd AppData\Roaming\nushell\
+vim config.nu
+nvim config.nu
+cd
+cd AppData\Roaming\nushell\
+vim config.nu
+nvim config.nu
+cd skyos-portal\
+cd
+cd AppData\Roaming\nushell\
+vim config.nu
+nvim config.nu
+cd code
+cd
+cd AppData\Roaming\nushell\
+pacman
+which vim
+vim
+yarn plugin runtime 
+which yarn
+which vim
+which nvim
+yarn
+cd 
+cd ../../code
+cd skyos-portal\
+yarn
+npm
+nvm
+cd
+cd AppData\Roaming\nushell\
+vim config.nu
+yarn
+cd
+cd AppData\Roaming\nushell\
+yarn
+vim .
+yarn
+cd
+cd AppData\Roaming\nushell\
+vim config.nu
+yarn
+cd
+cd AppData\Roaming\nushell\
+ls
+vim config.nu
+yarn
+ps
+sys
+cd
+cd AppData\Roaming\nushell\
+vim config.nu
+yarn
+ls
+rm -rf node_modules\
+rm yarn.lock
+cd skyos-portal\
+yarn bin 
+yarn npm audit 
+npm
+git fetch 
+git reflog 
+ls
+ll
+ls
+nvim
+cd
+cd AppData\Local\
+cd nvim
+ls
+cd ..
+cd ..\Roaming\nushell\
+ls
+cd ..\..\Roaming\nushell\
+vim config.nu
+vim .
+vim config.nu
+git status
+git add --all
+git commit -m "add nushell"
+git push
+gs
+git init 
